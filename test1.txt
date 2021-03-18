@@ -1,0 +1,6 @@
+Wearing Mask,no helmet
+Not wearing mask&helmet
+wearing helmet ,no mask
+helmet with mask
+Number plate
+
